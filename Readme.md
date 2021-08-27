@@ -1,4 +1,4 @@
-Made a pcb wfor One Touch Switch, wth a KDA5 module and one or two relais.
+Made a pcb for One Touch Switch, wth a KDA5 module and one or two relais.
 
 Works with 9V to 12V, with Omron G6S-2 realis 12V
 ## About the original project
